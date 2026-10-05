@@ -53,7 +53,7 @@ pip install numpy scipy sympy matplotlib
 ## How to run
 
 1. Download or clone this repository.
-2. Open `YOUR_FILE_NAME.py` in Spyder (or any Python environment).
+2. Open `integration-calculator.py` in Spyder (or any Python environment).
 3. Run the file and follow the prompts:
    - Enter the quadratic coefficients `a b c`, separated by spaces.
    - Enter the line's gradient and intercept.
@@ -71,4 +71,4 @@ Leyla Sahan, Naveesha Jain and Danish Majeed Chaudhary, ONCAMPUS London, 2024.
 
 ## What I learned
 
-This project showed me that programming and calculus work best together: the maths decides *which* regions to integrate and where the curve and line cross, and the code makes that reliable for any input. [Add one or two sentences on your own contribution, e.g. which part you wrote.]
+This project showed me that programming and calculus work best together: the maths decides *which* regions to integrate and where the curve and line cross, and the code makes that reliable for any input.
